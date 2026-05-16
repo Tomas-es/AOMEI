@@ -1,4 +1,7 @@
-﻿Compare-BackupLogTimestamp.ps1
+﻿BackupTools
+    Directory.
+    Contains BackupTools.psm1
+Compare-BackupLogTimestamp.ps1
     Compare bakcup date and time with the last logged time
 Confirm-BackupLogIdentity.ps1
     Compare backup ID with the last logged ID
